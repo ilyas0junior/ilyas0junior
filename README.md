@@ -15,7 +15,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <br/>
 <ul>
   <li> 🎓 Big-Data $ AI Engineering fifth year student from <a href="https://e-polytechnique.ma">Ecole Polytechnique</a> </li>
-  <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
+  <li> ✨ My favorite side project is <a href="https://github.com/ilyas0junior/BeatMix01">BeatMix</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
   <li> 📫 How to reach me: <a href="mailto: ilyas.kibbou@e-polytechnique.ma ">ilyas.kibbou@e-polytechnique.ma</a> </li>
 </li>
