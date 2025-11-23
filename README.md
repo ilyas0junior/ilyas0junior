@@ -21,8 +21,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 </li>
 </ul>
 🤝 My name is ILYAS KIBBOU, i'm a fifth year Big-Data & Ai engineering student. 
-🔭 I’m currently working on a Auto-Trading App script, using Pine Script to be Forecasting <br>Sequential Stock Market Patterns.<br>PineScript is a coding language developed by TradingView specifically for creating indicators and strategies on their platform. 
-👯 I’m looking to collaborate on absolute everything.<br>🤝 I’m looking for help with the PINE Script.<br>🌱 I’m currently learning how Practical examples demonstrate how to work with trading data from NASDAQ tick data and Algoseek minute bar data with a rich set of attributes capturing the demand-supply dynamic that we will later use for an ML-based intraday <br>strategy. We also cover various data provider APIs and how to source financial statement<br>information from the SEC.<br>⚡ Fun fact: Mark Zuckerberg chose Facebook's blue color scheme because he is red-green color-blind and blue appears most vividly to him.
+🔭 I’m currently working on a Auto-Trading App script, using Pine Script to be Forecasting Sequential Stock Market Patterns.<br>PineScript is a coding language developed by TradingView specifically for creating indicators and strategies on their platform. <br>👯 I’m looking to collaborate on absolute everything.<br>🤝 I’m looking for help with the PINE Script.<br>🌱 I’m currently learning how Practical examples demonstrate how to work with trading data from NASDAQ tick data and Algoseek minute bar data with a rich set of attributes capturing the demand-supply dynamic that we will later use for an ML-based intraday <br>strategy. We also cover various data provider APIs and how to source financial statement<br>information from the SEC.<br>⚡ Fun fact: Mark Zuckerberg chose Facebook's blue color scheme because he is red-green color-blind and blue appears most vividly to him.
 
 
 ## 🌐 Socials:
