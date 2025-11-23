@@ -1,5 +1,27 @@
 # 💫 About Me:
-🤝 Hello World !. My name is ILYAS KIBBOU, i'm a fifth year Big-Data & Ai engineering student. <br>🔭 I’m currently working on a Auto-Trading App script, using Pine Script to be Forecasting <br>Sequential Stock Market Patterns.<br>PineScript is a coding language developed by TradingView specifically for <br>creating indicators and strategies on their platform. <br>👯 I’m looking to collaborate on absolute everything.<br>🤝 I’m looking for help with the PINE Script.<br>🌱 I’m currently learning how Practical examples demonstrate how to work with trading <br>data from NASDAQ tick data and Algoseek minute bar data with a rich set of attributes <br>capturing the demand-supply dynamic that we will later use for an ML-based intraday <br>strategy. We also cover various data provider APIs and how to source financial statement<br>information from the SEC.<br>⚡ Fun fact: Mark Zuckerberg chose Facebook's blue color scheme because he is <br>red-green color-blind and blue appears most vividly to him.
+```
+__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
+ _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
+  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
+   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
+    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
+     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
+      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
+       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
+        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
+```
+
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
+<ul>
+  <li> 🎓 Big-Data $ AI Engineering fifth year student from <a href="https://e-polytechnique.ma">CODE University</a> </li>
+  <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
+  <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
+  <li> 📫 How to reach me: <a href="mailto: ilyas.kibbou@e-polytechnique.ma ">ilyas.kibbou@e-polytechnique.ma</a> </li>
+</li>
+</ul>
+🤝 My name is ILYAS KIBBOU, i'm a fifth year Big-Data & Ai engineering student. <br>🔭 I’m currently working on a Auto-Trading App script, using Pine Script to be Forecasting <br>Sequential Stock Market Patterns.<br>PineScript is a coding language developed by TradingView specifically for <br>creating indicators and strategies on their platform. <br>👯 I’m looking to collaborate on absolute everything.<br>🤝 I’m looking for help with the PINE Script.<br>🌱 I’m currently learning how Practical examples demonstrate how to work with trading <br>data from NASDAQ tick data and Algoseek minute bar data with a rich set of attributes <br>capturing the demand-supply dynamic that we will later use for an ML-based intraday <br>strategy. We also cover various data provider APIs and how to source financial statement<br>information from the SEC.<br>⚡ Fun fact: Mark Zuckerberg chose Facebook's blue color scheme because he is <br>red-green color-blind and blue appears most vividly to him.
 
 
 ## 🌐 Socials:
@@ -23,6 +45,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ilyas0junior&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Spotify Live View
+[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ilyass.Dark00@gmail.com) 
