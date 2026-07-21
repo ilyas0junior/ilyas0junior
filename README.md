@@ -63,24 +63,6 @@
 
 ---
 
-## Connect And Grant Permission
-
-- Click `Connect with Spotify` button below to grant permission
-
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.kittinanx.com/api/login)
-
-## Example
-
-- Default theme
-
-![spotify-github-profile](/img/default.svg)
-
-- Compact theme
-
-![spotify-github-profile](/img/compact.svg)
-
-
-
 ## Example
 
 - Default theme
