@@ -65,10 +65,13 @@
 [![](https://visitcount.itsvg.in/api?id=ilyas0junior&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Spotify Live View
+[Setting up Spotify dev](#setting-up-spotify-dev)
+
 
 - Click `Connect with Spotify` button below to grant permission
 
 [<img src="/img/btn-spotify.png">](https://spotify-github-profile.kittinanx.com/api/login)
+
 
 ## Example
 
