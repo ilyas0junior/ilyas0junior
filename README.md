@@ -65,9 +65,17 @@
 [![](https://visitcount.itsvg.in/api?id=ilyas0junior&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Spotify Live View
+
+- Click `Connect with Spotify` button below to grant permission
+
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.kittinanx.com/api/login)
+
+## Example
+
 - Default theme
 
 ![spotify-github-profile](/img/default.svg)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ilyass.Dark00@gmail.com) 
