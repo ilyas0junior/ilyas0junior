@@ -62,15 +62,23 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ilyas0junior&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Spotify Live View
-[Setting up Spotify dev](#setting-up-spotify-dev)
-
+## Connect And Grant Permission
 
 - Click `Connect with Spotify` button below to grant permission
 
 [<img src="/img/btn-spotify.png">](https://spotify-github-profile.kittinanx.com/api/login)
+
+## Example
+
+- Default theme
+
+![spotify-github-profile](/img/default.svg)
+
+- Compact theme
+
+![spotify-github-profile](/img/compact.svg)
+
 
 
 ## Example
