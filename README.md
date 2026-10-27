@@ -36,13 +36,13 @@
 <img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br/>
 <ul>
-  <li> 🎓 Big-Data $ AI Engineering fifth year student from <a href="https://e-polytechnique.ma">Ecole Polytechnique</a> </li>
+  <li> 🎓 Big-Data $ AI Engineer from <a href="https://e-polytechnique.ma">Ecole Polytechnique</a> </li>
   <li> ✨ My favorite side project is <a href="https://github.com/ilyas0junior/BeatMix01">BeatMix</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
   <li> 📫 How to reach me: <a href="mailto: ilyas.kibbou@e-polytechnique.ma ">ilyas.kibbou@e-polytechnique.ma</a> </li>
 </li>
 </ul>
-🤝 My name is ILYAS KIBBOU, i'm a fifth year Big-Data & Ai engineering student. <br>🔭 I’m currently working on a Auto-Trading App script, using Pine Script to be Forecasting Sequential Stock Market Patterns.<br>PineScript is a coding language developed by TradingView specifically for creating indicators and strategies on their platform. <br>👯 I’m looking to collaborate on absolute everything.<br>🤝 I’m looking for help with the PINE Script.<br>🌱 I’m currently learning how Practical examples demonstrate how to work with trading data from NASDAQ tick data and Algoseek minute bar data with a rich set of attributes capturing the demand-supply dynamic that we will later use for an ML-based intraday <br>strategy. We also cover various data provider APIs and how to source financial statement<br>information from the SEC.<br>⚡ Fun fact: Mark Zuckerberg chose Facebook's blue color scheme because he is red-green color-blind and blue appears most vividly to him.
+🤝 My name is ILYAS KIBBOU, i'm a Big-Data & Ai engineering i have a Bac+5 State-certified Engineer . <br>🔭 I’m currently working on a Auto-Trading App script, using Pine Script to be Forecasting Sequential Stock Market Patterns.<br>PineScript is a coding language developed by TradingView specifically for creating indicators and strategies on their platform. <br>👯 I’m looking to collaborate on absolute everything.<br>🤝 I’m looking for help with the PINE Script.<br>🌱 I’m currently learning how Practical examples demonstrate how to work with trading data from NASDAQ tick data and Algoseek minute bar data with a rich set of attributes capturing the demand-supply dynamic that we will later use for an ML-based intraday <br>strategy. We also cover various data provider APIs and how to source financial statement<br>information from the SEC.<br>⚡ Fun fact: Mark Zuckerberg chose Facebook's blue color scheme because he is red-green color-blind and blue appears most vividly to him.
 
 
 ## 🌐 Socials:
