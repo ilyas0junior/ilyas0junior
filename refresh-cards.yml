@@ -1,0 +1,81 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"          # every day, 03:17 UTC
+  workflow_dispatch:               # "Run workflow" button
+  push:
+    branches: [main]
+    paths: ["scripts/**", "fonts/**", "assets/**"]   # re-render when the script, fonts or portrait change
+
+concurrency:
+  group: refresh-cards
+  cancel-in-progress: true
+
+permissions:
+  contents: write                  # lets the job commit the refreshed files
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install font tools
+        run: pip install -r requirements.txt
+
+      # 1) Refresh data/contributions.json (the file the script reads).
+      #    GITHUB_TOKEN sees your public activity. To count private contributions and to see repos
+      #    owned by organisations (e.g. HSI-Auto-Trader), add a classic PAT with `read:user` and
+      #    `repo` scopes as the repository secret PROFILE_TOKEN; it is used automatically when present.
+      - name: Refresh contribution data
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+        run: |
+          cat > query.graphql <<'GQL'
+          query($login: String!) {
+            user(login: $login) {
+              login
+              name
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks { firstDay contributionDays { date contributionCount weekday } }
+                }
+              }
+              pinnedItems(first: 6, types: REPOSITORY) { nodes { ... on Repository { ...R } } }
+              repositories(first: 100, isFork: false, ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER],
+                           orderBy: {field: PUSHED_AT, direction: DESC}) { nodes { ...R } }
+            }
+          }
+          fragment R on Repository {
+            name nameWithOwner description url stargazerCount forkCount pushedAt
+            primaryLanguage { name color }
+          }
+          GQL
+          gh api graphql -F login="$LOGIN" -F query=@query.graphql --jq '.data.user' > data/contributions.tmp
+          mv data/contributions.tmp data/contributions.json
+          rm query.graphql
+
+      # 2) Render the SVG cards into cards/.
+      - name: Render cards
+        run: python scripts/build_cards.py
+
+      # 3) Commit only if something changed.
+      - name: Commit cards
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json cards
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Refresh profile cards"
+            git push
+          fi
